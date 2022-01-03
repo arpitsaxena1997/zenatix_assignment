@@ -1,9 +1,0 @@
-{'_index': 'pid_index',
-    '_type': '_doc',
-    '_id': '115',
-    '_score': 1.0,
-    '_source': {'pid': 115,
-     'CPU%': 0.0,
-     'TotalMemory%': 0.0,
-     'TotalMemory_in_MB': 0.0,
-     'USS_Memory%': 0.0}}]}}
